@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proektna_NikolaKosturski102424/1.0.0": {
+        "runtime": {
+          "Proektna_NikolaKosturski102424.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proektna_NikolaKosturski102424/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
